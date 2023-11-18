@@ -4,7 +4,6 @@ This Github repository summarizes method name prediction paper resources. For mo
 ## Table of Contents
 - [Papers list](#Papers-List)
 
-- [Experiments](#Experiments)
 
 ## Papers List
 - **A General Path-Based Representation for Predicting Program Properties**.[[pdf](https://arxiv.org/abs/1803.09544)]
@@ -74,4 +73,3 @@ This Github repository summarizes method name prediction paper resources. For mo
 - **Fold2Vec: Towards a Statement-Based Representation of Code for Code Comprehension**.[[pdf](https://dl.acm.org/doi/10.1145/3514232)][[code](https://cazzola.di.unimi.it/fold2vec.html)]
   - Francesco Bertolotti, Walter Cazzola. *ACM Transactions on Software Engineering and Methodology*, 2023.
 
-## Experiments

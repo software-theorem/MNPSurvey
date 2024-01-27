@@ -1,4 +1,4 @@
-# A Survey of Learning-based Method Name Prediction (MNP)
+# Awesome Learning-based Method Name Prediction (MNP)
 
 **NOTE: I plan to continue updating the latest papers when I have time, and PRs or issues about missing papers are also welcome.**
 

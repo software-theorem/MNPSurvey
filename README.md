@@ -7,11 +7,10 @@ A collection of academic publications, methodology, metrics and datasets on the 
 We welcome all researchers to contribute to this repository and further contribute to the knowledge of the learning-based MNP field.
 Please feel free to contact us if you have any related references by Github issue or pull request. 
 
-----------
 
 ## Workflow of Learning-based MNP
 ![dlmnp](workflow.png)
-----------
+
 ## Collected Papers
 - **A General Path-Based Representation for Predicting Program Properties**.[[pdf](https://arxiv.org/abs/1803.09544)]
   - Uri Alon, Meital Zilberstein, Omer Levy, Eran Yahav. *PLDI*, 2018.
@@ -80,7 +79,6 @@ Please feel free to contact us if you have any related references by Github issu
 - **Fold2Vec: Towards a Statement-Based Representation of Code for Code Comprehension**.[[pdf](https://dl.acm.org/doi/10.1145/3514232)][[code](https://cazzola.di.unimi.it/fold2vec.html)]
   - Francesco Bertolotti, Walter Cazzola. *ACM Transactions on Software Engineering and Methodology*, 2023.
 
-----------
 ## Evaluation Metrics
 | Metrics | Description |
 | ---- | ---- |

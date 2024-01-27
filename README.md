@@ -10,7 +10,7 @@ Please feel free to contact us if you have any related references by Github issu
 ----------
 
 ## Workflow of Learning-based MNP
-![dlmnp](workflow_of_ learning-based_MNP.png)
+![dlmnp](workflow.png)
 ----------
 ## Collected Papers
 - **A General Path-Based Representation for Predicting Program Properties**.[[pdf](https://arxiv.org/abs/1803.09544)]

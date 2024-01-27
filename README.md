@@ -1,8 +1,8 @@
-# Awesome Learning-based Method Name Prediction (MNP)
+# Awesome Learning-based MNP
 
 **NOTE: I plan to continue updating the latest papers when I have time, and PRs or issues about missing papers are also welcome.**
 
-A collection of academic publications, methodology, metrics and datasets on the subject of **method name prediction enhanced with deep/machine learning techniques**.
+A collection of academic publications, methodology, metrics and datasets on the subject of **method name prediction （MNP） enhanced with deep/machine learning techniques**.
 
 We welcome all researchers to contribute to this repository and further contribute to the knowledge of the learning-based MNP field.
 Please feel free to contact us if you have any related references by Github issue or pull request. 

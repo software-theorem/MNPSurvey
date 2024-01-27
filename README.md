@@ -79,6 +79,25 @@ Please feel free to contact us if you have any related references by Github issu
 - **Fold2Vec: Towards a Statement-Based Representation of Code for Code Comprehension**.[[pdf](https://dl.acm.org/doi/10.1145/3514232)][[code](https://cazzola.di.unimi.it/fold2vec.html)]
   - Francesco Bertolotti, Walter Cazzola. *ACM Transactions on Software Engineering and Methodology*, 2023.
 
+## Datasets
+| Dataset Name | Link | Source| #Papers in MNP Used |
+| :-- | --- | --- | --- |
+| Java-small | [link](https://github.com/tech-srl/code2vec) | GitHub | 14+ papers |
+| Java-med | [link](https://github.com/tech-srl/code2vec) | GitHub | 8+ papers |
+| Java-large | [link](https://github.com/tech-srl/code2vec) | GitHub | 10+ papers | 
+| codeattention | [link](https://groups.inf.ed.ac.uk/cup/codeattention/) | GitHub | 1+ papers |
+| CodeSum2 | [link](https://github.com/XuSihan/CodeSum2) |GitHub | 1+ papers | 
+| Mnire | [link](https://sonvnguyen.github.io/mnire/#datasets) | GitHub | 6+ papers |
+| OGB | [link](https://ogb.stanford.edu/) | Stanford OGB | 1+ papers | 
+| Meth2Seq | [link](https://meth2seq.github.io/meth2seq/) | GitHub | 1+ papers |
+| Mocktail Dataset | [link](https://archive.org/download/mocktail-dataset-method-naming-tse) | GitHub | 1+ papers | 
+| CodeSearchNet | [link](https://github.com/github/CodeSearchNet) | GitHub | 1+ papers |
+| Java2Graph | [link](https://github.com/kk-arman/graph_names/) | GitHub | 1+ papers | 
+| CodeXGLUE | [link](https://microsoft.github.io/CodeXGLUE/) | GitHub | 11+ papers |
+| JavaRepos | [link](https://github.com/TruX-DTF/debug-method-name) | Apache, Spring,Hibernate,and Google | 1+ papers | 
+| 150k Python Dataset | [link](https://www.sri.inf.ethz.ch/py150) | GitHub | 1+ papers |
+
+
 ## Evaluation Metrics
 | Metrics | Description |
 | ---- | ---- |

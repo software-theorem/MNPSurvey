@@ -1,6 +1,6 @@
 # Awesome Learning-based MNP
 
-**NOTE: I plan to continue updating the latest papers when I have time, and PRs or issues about missing papers are also welcome.**
+**NOTE: We plan to continue updating the latest papers, and PRs or issues about missing papers are also welcome.**
 
 A collection of academic publications, methodology, metrics and datasets on the subject of **method name prediction (MNP) enhanced with deep/machine learning techniques**.
 

@@ -84,9 +84,9 @@ Please feel free to contact us if you have any related references by Github issu
   - Takayuki Suzuki, Kazunori Sakamoto, Fuyuki Ishikawa, Shinichi Honiden. *ICPC*, 2014.
 - **Code completion with statistical language models**.[[pdf](https://dl.acm.org/doi/10.1145/2594291.2594321#tab-contributors)]
   - Veselin Raychev, Martin Vechev, Eran Yahav. *PLDI*, 2014.
-- **Suggesting accurate method and class names**.[[[pdf](https://dl.acm.org/doi/10.1145/2786805.2786849)]]
+- **Suggesting accurate method and class names**.[[pdf](https://dl.acm.org/doi/10.1145/2786805.2786849)]
   - Miltiadis Allamanis, Earl T. Barr, Christian Bird, Charles Sutton. *ESEC/FSE*, 2015.
-- **A Convolutional Attention Network for Extreme Summarization of Source Code**.[[pdf](https://arxiv.org/abs/1602.03001)][[code] (https://groups.inf.ed.ac.uk/cup/codeattention/)]
+- **A Convolutional Attention Network for Extreme Summarization of Source Code**.[[pdf](https://arxiv.org/abs/1602.03001)][[code](https://groups.inf.ed.ac.uk/cup/codeattention/)]
   - Miltiadis Allamanis, Hao Peng, Charles Sutton. *ICML*, 2016.
 - **Learning to Spot and Refactor Inconsistent Method Names**.[[pdf](https://ieeexplore.ieee.org/abstract/document/8812134)][[code](https://github.com/TruX-DTF/debug-method-name)]
   - Kui Liu, Dongsun Kim, Tegawendé F. Bissyandé, Taeyoung Kim, Kisub Kim, Anil Koyuncu, Suntae Kim, Yves Le Traon. *ICSE*, 2019.
@@ -110,7 +110,7 @@ Please feel free to contact us if you have any related references by Github issu
   - Fan Ge; Li Kuang. *ICPC*, 2021.
 - **Language-Agnostic Representation Learning of Source Code from Structure and Context**.[[pdf](https://arxiv.org/abs/2103.11318)]
   - Daniel Zügner, Tobias Kirschstein, Michele Catasta, Jure Leskovec, Stephan Günnemann. *ICLR*, 2021.
-- **On the generalizability of Neural Program Models with respect to semantic-preserving program transformations**.[[[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0950584921000379)][[code](https://github.com/mdrafiqulrabin/tnpa-generalizability/)]
+- **On the generalizability of Neural Program Models with respect to semantic-preserving program transformations**.[[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0950584921000379)][[code](https://github.com/mdrafiqulrabin/tnpa-generalizability/)]
   - Md Rafiqul Islam Rabin, Nghi D.Q. Bui, Ke Wang, Yijun Yu, Lingxiao Jiang, Mohammad Amin Alipour. *Information and Software Technology*, 2021.
 - **TreeCaps: Tree-Based Capsule Networks for Source Code Processing**.[[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/16074)][[code](https://github.com/bdqnghi/treecaps)]
   - Nghi D. Q. Bui, Yijun Yu, Lingxiao Jiang. *AAAI*, 20.
@@ -138,7 +138,7 @@ Please feel free to contact us if you have any related references by Github issu
 | CoderPat | [link](https://github.com/CoderPat/}\\\url{structured-neural-summarization) |GitHub | 1+ papers |
 | - | [link](https://drive.google.com/file/d/}\\\url{1fNSmPluXbhQ9cfcAHkTtNrHlD8Jkh2XD) |GitHub | 1+ papers |
 | Mnire | [link](https://sonvnguyen.github.io/mnire/#datasets) | GitHub | 6+ papers |
-| Flow2vec | [link]([artifact4oopsla20/Flow2Vec (github.com)](https://github.com/artifact4oopsla20/Flow2Vec?tab=readme-ov-file\#21-code-classification-and-summarization-table-2)) | GitHub | 1+ papers |
+| Flow2vec |[link](https://github.com/artifact4oopsla20/Flow2Vec?tab=readme-ov-file\#21-code-classification-and-summarization-table-2) | GitHub | 1+ papers |
 | OGB | [link](https://ogb.stanford.edu/) | Stanford OGB | 1+ papers |
 | Meth2Seq | [link](https://meth2seq.github.io/meth2seq/) | GitHub | 1+ papers |
 | Mocktail Dataset | [link](https://archive.org/download/mocktail-dataset-method-naming-tse) | GitHub | 1+ papers |

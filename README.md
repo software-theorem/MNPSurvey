@@ -78,7 +78,7 @@ Please feel free to contact us if you have any related references by Github issu
   - Saeed Parsa, Morteza Zakeri Nasrabadi, Masoud Ekhtiarzadeh, Mohammad Ramezani. *Journal of Computer Languages*, 2023.
 - **Fold2Vec: Towards a Statement-Based Representation of Code for Code Comprehension**.[[pdf](https://dl.acm.org/doi/10.1145/3514232)][[code](https://cazzola.di.unimi.it/fold2vec.html)]
   - Francesco Bertolotti, Walter Cazzola. *ACM Transactions on Software Engineering and Methodology*, 2023.
-- **Mining Source Code Repositories at Massive Scale using Language Modeling**.[[[pdf](https://ieeexplore.ieee.org/document/6624029)][[code](http://groups.inf.ed.ac.uk/cup/javaGithub/)]
+- **Mining Source Code Repositories at Massive Scale using Language Modeling**.[[pdf](https://ieeexplore.ieee.org/document/6624029)][[code](http://groups.inf.ed.ac.uk/cup/javaGithub/)]
   - Miltiadis Allamanis, Charles Sutton. *MSR*, 2013.
 - **An approach for evaluating and suggesting method names using n-gram models**.[[pdf](https://dl.acm.org/doi/10.1145/2597008.2597797)]
   - Takayuki Suzuki, Kazunori Sakamoto, Fuyuki Ishikawa, Shinichi Honiden. *ICPC*, 2014.
@@ -86,13 +86,13 @@ Please feel free to contact us if you have any related references by Github issu
   - Veselin Raychev, Martin Vechev, Eran Yahav. *PLDI*, 2014.
 - **Suggesting accurate method and class names**.[[[pdf](https://dl.acm.org/doi/10.1145/2786805.2786849)]]
   - Miltiadis Allamanis, Earl T. Barr, Christian Bird, Charles Sutton. *ESEC/FSE*, 2015.
-- **A Convolutional Attention Network for Extreme Summarization of Source Code**.[[[pdf](https://arxiv.org/abs/1602.03001)][[code] (https://groups.inf.ed.ac.uk/cup/codeattention/)]
+- **A Convolutional Attention Network for Extreme Summarization of Source Code**.[[pdf](https://arxiv.org/abs/1602.03001)][[code] (https://groups.inf.ed.ac.uk/cup/codeattention/)]
   - Miltiadis Allamanis, Hao Peng, Charles Sutton. *ICML*, 2016.
-- **Learning to Spot and Refactor Inconsistent Method Names**.[[[pdf](https://ieeexplore.ieee.org/abstract/document/8812134)][[code](https://github.com/TruX-DTF/debug-method-name)]
+- **Learning to Spot and Refactor Inconsistent Method Names**.[[pdf](https://ieeexplore.ieee.org/abstract/document/8812134)][[code](https://github.com/TruX-DTF/debug-method-name)]
   - Kui Liu, Dongsun Kim, Tegawendé F. Bissyandé, Taeyoung Kim, Kisub Kim, Anil Koyuncu, Suntae Kim, Yves Le Traon. *ICSE*, 2019.
-- **Structured Neural Summarization**.[[[pdf](https://arxiv.org/abs/1811.01824)][[code](https://github.com/CoderPat/structured-neural-summarization)]
+- **Structured Neural Summarization**.[[pdf](https://arxiv.org/abs/1811.01824)][[code](https://github.com/CoderPat/structured-neural-summarization)]
   - Patrick Fernandes, Miltiadis Allamanis, Marc Brockschmidt. *ICLR*, 2019.
-- **A Neural Model for Method Name Generation from Functional Description**.[[[pdf](https://ieeexplore.ieee.org/document/8667994)][[code](https://bit.ly/2MLSxFg)]
+- **A Neural Model for Method Name Generation from Functional Description**.[[pdf](https://ieeexplore.ieee.org/document/8667994)][[code](https://bit.ly/2MLSxFg)]
   - Sa Gao, Chunyang Chen, Zhenchang Xing, Yukun Ma, Wen Song, Shang-Wei Lin. *SANER*, 2019.
 - **Neural Model for Generating Method Names from Combined Contexts**.[[pdf](https://ieeexplore.ieee.org/document/9951043)]
   - Zane Varner, Çerağ Oğuztüzün, Feng Long. *STC*, 2022.
@@ -106,25 +106,25 @@ Please feel free to contact us if you have any related references by Github issu
   - Rui Xie, Wei Ye, Jinan Sun, Shikun Zhang. *ICPC*, 2021.
 - **Integrating tree path in transformer for code representation**.[[pdf](https://proceedings.neurips.cc/paper/2021/hash/4e0223a87610176ef0d24ef6d2dcde3a-Abstract.html)]
   - Han Peng, Ge Li, Wenhan Wang, Yunfei Zhao, Zhi Jin. *NeurIPS*, 2021.
-- **Keywords Guided Method Name Generation**.[[[pdf](https://ieeexplore.ieee.org/document/9463019)][[code](https://github.com/css518/Keywords-Guided-Method-Name-Generation)]
+- **Keywords Guided Method Name Generation**.[[pdf](https://ieeexplore.ieee.org/document/9463019)][[code](https://github.com/css518/Keywords-Guided-Method-Name-Generation)]
   - Fan Ge; Li Kuang. *ICPC*, 2021.
 - **Language-Agnostic Representation Learning of Source Code from Structure and Context**.[[pdf](https://arxiv.org/abs/2103.11318)]
   - Daniel Zügner, Tobias Kirschstein, Michele Catasta, Jure Leskovec, Stephan Günnemann. *ICLR*, 2021.
 - **On the generalizability of Neural Program Models with respect to semantic-preserving program transformations**.[[[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0950584921000379)][[code](https://github.com/mdrafiqulrabin/tnpa-generalizability/)]
   - Md Rafiqul Islam Rabin, Nghi D.Q. Bui, Ke Wang, Yijun Yu, Lingxiao Jiang, Mohammad Amin Alipour. *Information and Software Technology*, 2021.
-- **TreeCaps: Tree-Based Capsule Networks for Source Code Processing**.[[[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/16074)][[code](https://github.com/bdqnghi/treecaps)]
+- **TreeCaps: Tree-Based Capsule Networks for Source Code Processing**.[[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/16074)][[code](https://github.com/bdqnghi/treecaps)]
   - Nghi D. Q. Bui, Yijun Yu, Lingxiao Jiang. *AAAI*, 20.
 - **Method Name Generation Based on Code Structure Guidance**.[[pdf](https://ieeexplore.ieee.org/document/9825891)]
   - Zhiheng Qu, Yi Hu, Jianhui Zeng, Bo Cai, Shun Yang. *SANER*, 2022.
 - **Path context augmented statement and network for learning programs**.[[pdf](https://link.springer.com/article/10.1007/s10664-021-10098-y)]
   - Da Xiao, Dengji Hang, Lu Ai, Shengping Li & Hongliang Liang. *Empirical Software Engineering*,  2022.
-- **Pre-implementation Method Name Prediction for Object-oriented Programming**.[[[pdf](https://dl.acm.org/doi/10.1145/3597203)][[code](https://github.com/ShangwenWang/Mario)]
+- **Pre-implementation Method Name Prediction for Object-oriented Programming**.[[pdf](https://dl.acm.org/doi/10.1145/3597203)][[code](https://github.com/ShangwenWang/Mario)]
   - Shangwen Wang, Ming Wen, Bo Lin, Yepang Liu, Tegawendé F. Bissyandé, Xiaoguang Mao. *TOSEM*,  2023.
-- **Towards Better ML-Based Software Services: An Investigation of Source Code Engineering Impact**.[[[pdf](https://ieeexplore.ieee.org/document/10234350)][[code](https://groups.inf.ed.ac.uk/cup/naturalize/#evaldata)]
+- **Towards Better ML-Based Software Services: An Investigation of Source Code Engineering Impact**.[[pdf](https://ieeexplore.ieee.org/document/10234350)][[code](https://groups.inf.ed.ac.uk/cup/naturalize/#evaldata)]
   - Yanli Li, Chongbin Ye, Huaming Chen, Shiping Chen, Minhui Xue, Jun Shen. *SSE*, 2023.
-- **Automating Method Naming with Context-Aware Prompt-Tuning**.[[[pdf](https://ieeexplore.ieee.org/abstract/document/10174153)][[code](https://figshare.com/s/0382ba979d970b4c2b23)]
+- **Automating Method Naming with Context-Aware Prompt-Tuning**.[[pdf](https://ieeexplore.ieee.org/abstract/document/10174153)][[code](https://figshare.com/s/0382ba979d970b4c2b23)]
   - Jie Zhu, Lingwei Li, Li Yang, Xiaoxiao Ma, Chun Zuo. *ICPC*, 2023.
-- **Just-In-Time Method Name Updating With Heuristics and Neural Model**.[[[pdf](https://ieeexplore.ieee.org/document/10366565)][[code](https://anonymous.4open.science/r/MNU-139/)]
+- **Just-In-Time Method Name Updating With Heuristics and Neural Model**.[[pdf](https://ieeexplore.ieee.org/document/10366565)][[code](https://anonymous.4open.science/r/MNU-139/)]
   - Zhenting Guo, Meng Yan, Hongyan Li, Zhezhe Chen, Weifeng Sun. *QRS*, 2023.
 
 ## Datasets

@@ -135,8 +135,8 @@ Please feel free to contact us if you have any related references by Github issu
 | Java-large | [link](https://github.com/tech-srl/code2vec) | GitHub | 10+ papers |
 | codeattention | [link](https://groups.inf.ed.ac.uk/cup/codeattention/) | GitHub | 1+ papers |
 | CodeSum2 | [link](https://github.com/XuSihan/CodeSum2) |GitHub | 1+ papers |
-| CoderPat | [link](https://github.com/CoderPat/}\\\url{structured-neural-summarization) |GitHub | 1+ papers |
-| - | [link](https://drive.google.com/file/d/}\\\url{1fNSmPluXbhQ9cfcAHkTtNrHlD8Jkh2XD) |GitHub | 1+ papers |
+| CoderPat | [link](https://github.com/CoderPat/structured-neural-summarization) |GitHub | 1+ papers |
+| - | [link](https://drive.google.com/file/d/1fNSmPluXbhQ9cfcAHkTtNrHlD8Jkh2XD) |GitHub | 1+ papers |
 | Mnire | [link](https://sonvnguyen.github.io/mnire/#datasets) | GitHub | 6+ papers |
 | Flow2vec |[link](https://github.com/artifact4oopsla20/Flow2Vec?tab=readme-ov-file\#21-code-classification-and-summarization-table-2) | GitHub | 1+ papers |
 | OGB | [link](https://ogb.stanford.edu/) | Stanford OGB | 1+ papers |

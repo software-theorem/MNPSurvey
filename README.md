@@ -38,7 +38,7 @@ Please feel free to contact us if you have any related references by Github issu
   - Son Nguyen, Hung Phan, Trinh Le, Tien N. Nguyen:. *ICSE*, 2020.
 -  **Blended, Precise Semantic Program Embeddings**.[[pdf](https://doi.org/10.1145/3385412.3385999)]
   - Ke Wang, Zhendong Su. *PLDI*, 2020.
-- **InferCode: Self-Supervised Learning of Code Representations by Predicting Subtrees**.[[pdf](https://arxiv.org/abs/2012.07023)][[code](https://github.com/ICSE21/infercode)]
+- **InferCode: Self-Supervised Learning of Code Representations by Predicting Subtrees**.[[pdf](https://arxiv.org/abs/2012.07023)]
   - Nghi D. Q. Bui, Yijun Yu, Lingxiao Jiang. *ICSE*, 2021.
 - **A Mocktail of Source Code Representations**.[[pdf](https://arxiv.org/abs/2106.10918)][[code](https://github.com/NobleMathews/mocktail-blend)]
   - Dheeraj Vagavolu, Karthik Chandra Swarna, Sridhar Chimalakonda. *ASE*, 2021.
@@ -70,7 +70,7 @@ Please feel free to contact us if you have any related references by Github issu
   - Xin Jin, Kexin Pei, Jun Yeon Won, Zhiqiang Lin. *CCS*, 2022.
 - **Method Name Prediction for Automatically Generated Unit Tests**.[[pdf](https://ieeexplore.ieee.org/abstract/document/9763112)][[code](https://github.com/kk-arman/graph_names/)]
   - Maxim Petukhov, Evelina Gudauskayte, Arman Kaliyev, Mikhail Oskin, Dmitry Ivanov, Qianxiang Wang. *ICCQ*, 2022.
-- **A Naming Pattern Based Approach for Method Name Recommendation**.[[pdf](https://doi.org/10.1109/ISSRE55969.2022.00041)][[code](https://github.com/cqu-isse/NamPat)]
+- **A Naming Pattern Based Approach for Method Name Recommendation**.[[pdf](https://doi.org/10.1109/ISSRE55969.2022.00041)]
   - Yanping Yang, Ling Xu, Meng Yan, Zhou Xu, Zhongyang Deng. *ISSRE*, 2022.
 -  **A Review on Source Code Documentation**.[[pdf](https://dl.acm.org/doi/10.1145/3519312)]
   - Sawan Rai, Ramesh Chandra Belwal, Atul Gupta. *ACM Transactions on Intelligent DSystems and Technology*, 2022.
@@ -124,7 +124,7 @@ Please feel free to contact us if you have any related references by Github issu
   - Yanli Li, Chongbin Ye, Huaming Chen, Shiping Chen, Minhui Xue, Jun Shen. *SSE*, 2023.
 - **Automating Method Naming with Context-Aware Prompt-Tuning**.[[pdf](https://ieeexplore.ieee.org/abstract/document/10174153)][[code](https://figshare.com/s/0382ba979d970b4c2b23)]
   - Jie Zhu, Lingwei Li, Li Yang, Xiaoxiao Ma, Chun Zuo. *ICPC*, 2023.
-- **Just-In-Time Method Name Updating With Heuristics and Neural Model**.[[pdf](https://ieeexplore.ieee.org/document/10366565)][[code](https://anonymous.4open.science/r/MNU-139/)]
+- **Just-In-Time Method Name Updating With Heuristics and Neural Model**.[[pdf](https://ieeexplore.ieee.org/document/10366565)]
   - Zhenting Guo, Meng Yan, Hongyan Li, Zhezhe Chen, Weifeng Sun. *QRS*, 2023.
 
 ## Datasets
